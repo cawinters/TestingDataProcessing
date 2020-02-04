@@ -1,0 +1,50 @@
+{
+  "id": "39b49bac-adbb-467b-9105-f65d8e2b42f3",
+  "company": "Ritchie LLC",
+  "president": "Angelo Morissette",
+  "description": "Earum nostrum totam corporis optio repellat suscipit eveniet.",
+  "breadcrumbs": [
+    {
+      "id": "8d8fe8ab-4495-4e01-b066-77e256a9f3c9",
+      "company": "King, Weber and Boyle",
+      "president": "Dina Schowalter",
+      "description": "Ratione non facilis sint porro nisi qui."
+    },
+    {
+      "id": "277611df-a42b-4e18-99cb-2033bba78915",
+      "company": "Wilderman and Sons",
+      "president": "Gerry Turner",
+      "description": "Dignissimos sit ut."
+    },
+    {
+      "id": "d219fdc8-916d-4318-a9d5-bfd65b7c702d",
+      "company": "Kerluke - Jaskolski",
+      "president": "Ford Casper",
+      "description": "Quasi omnis deleniti magnam reprehenderit a sapiente non hic est."
+    },
+    {
+      "id": "9bd850af-0434-4e9b-ac57-155f79ab2c20",
+      "company": "Rath - Pouros",
+      "president": "Wilford Kris",
+      "description": "Corrupti quia exercitationem nihil labore error aliquid facilis quaerat."
+    },
+    {
+      "id": "9f88a1fb-55e1-4f1d-a32a-815c42ebe6de",
+      "company": "Flatley Inc",
+      "president": "Irma Runolfsdottir",
+      "description": "Velit aliquid ipsum esse aliquam alias neque inventore eos."
+    },
+    {
+      "id": "db720e1c-f37e-41bd-974a-b52a86d5b78f",
+      "company": "Beier - Turner",
+      "president": "Rosie Hahn",
+      "description": "Nihil eveniet perspiciatis sed qui ipsam."
+    },
+    {
+      "id": "16c58c8c-c30e-4e7c-9f66-21e70cac86d8",
+      "company": "Auer, Schiller and Jaskolski",
+      "president": "Alexanne Turner",
+      "description": "Eius sunt dolorum quae dolores vel rem."
+    }
+  ]
+}
